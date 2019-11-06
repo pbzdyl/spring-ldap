@@ -10,7 +10,7 @@
   <name>Spring LDAP LDIF Batch</name>
   <description>Classes for integration with the Spring Batch Framework</description>
   <properties>
-    <spring-batch.version>2.0.3.RELEASE</spring-batch.version>
+    <spring-batch.version>4.2.0.RELEASE</spring-batch.version>
   </properties>
   <dependencies>
     <dependency>
